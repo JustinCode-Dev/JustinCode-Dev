@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JustinCode-Dev
-- 👀 I’m interested in AI Development
+- 👀 I’m interested in AI/ML Development
 - 🌱 I’m currently learning Python
 - ⚡ Still figuring out things 😴
 
